@@ -1,0 +1,11 @@
+node_modules
+bower_components
+app/bundles
+*.log
+*.swp
+*.swo
+dist/embed/
+build
+.DS_Store
+/components
+public/css/
