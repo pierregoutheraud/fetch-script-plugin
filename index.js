@@ -33,7 +33,7 @@ FetchScriptPlugin.prototype.apply = function(compiler) {
               var newRequest = './' + fileName
               data.request = newRequest
               data.dependency.request = newRequest
-              data.dependency.request = newRequest
+              data.dependency.userRequest = newRequest
               cb(null, data)
           });
         })
