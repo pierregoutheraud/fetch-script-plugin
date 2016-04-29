@@ -18,6 +18,6 @@
   "homepage": "https://github.com/pierregoutheraud/fetch-script-plugin#readme",
   "dependencies": {
     "object-assign": "^4.0.1",
-    "request": "^2.72.0",
+    "request": "^2.72.0"
   }
 }
